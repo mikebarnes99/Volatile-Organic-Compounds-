@@ -18,13 +18,8 @@ db07 = pd.read_csv(r'/Users/Henry/Desktop/Glasgow 2007.csv')
 db08 = pd.read_csv(r'/Users/Henry/Desktop/Glasgow 2008.csv')
 db09 = pd.read_csv(r'/Users/Henry/Desktop/Glasgow 2009.csv')
 db10 = pd.read_csv(r'/Users/Henry/Desktop/Glasgow 2010.csv')
-db11 = pd.read_csv(r'/Users/Henry/Desktop/Glasgow 2011.csv')
-db12 = pd.read_csv(r'/Users/Henry/Desktop/Glasgow 2012.csv')
-db13 = pd.read_csv(r'/Users/Henry/Desktop/Glasgow 2013.csv')
-db14 = pd.read_csv(r'/Users/Henry/Desktop/Glasgow 2014.csv')
-db15 = pd.read_csv(r'/Users/Henry/Desktop/Glasgow 2015.csv')
 
-datasets = [db03,db04,db05,db06,db07,db08,db09,db10,db11,db12,db13,db14,db15]
+datasets = [db03,db04,db05,db06,db07,db08,db09,db10]
 
 x=[]
 y=[]
